@@ -3,17 +3,17 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Mobil Yazılar"
 
 author:
-  facebook:         your-id
+  facebook:         emede
   youtubeUser:      your-id
   youtubeChannel:   your-id
-  twitter:          your-id
-  github:           your-id
+  twitter:          delipenguen
+  github:           egemenmede
   stackoverflow:    your-id
   quora:            your-id
-  linkedin:         your-id
+  linkedin:         egemenmede
   pinterest:        your-id
   googlePlus:       your-id
   instagram:        your-id
@@ -24,7 +24,7 @@ author:
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             Egemen Mede
 
 # Google-analytics
 google-analytics:
@@ -56,11 +56,11 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Hakkında"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "Arşiv"
     url:            "/archive"
-  - name:           "Tags"
+  - name:           "Etiketler"
     url:            "/tags"
   - name:           "Github"
     url:            "https://github.com/egemenmede/egemenmede.github.io"
