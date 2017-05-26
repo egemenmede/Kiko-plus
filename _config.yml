@@ -3,24 +3,18 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Mobil Yazılar"
+name:               "Egemen Mede (DeliPenguen)"
 
 author:
   facebook:         emede
-  youtubeUser:      your-id
-  youtubeChannel:   your-id
+  youtubeChannel:   UC4ZfN6F8_zJQK_oMe3xaUcA
   twitter:          delipenguen
   github:           egemenmede
-  stackoverflow:    your-id
-  quora:            your-id
+  stackoverflow:    504641
   linkedin:         egemenmede
-  pinterest:        your-id
-  googlePlus:       your-id
-  instagram:        your-id
-  reddit:           your-id
+  googlePlus:       +EgemenMEDE
   medium:           delipenguen
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            egemenmede@gmail.com
 
 copyright:
   year:             2017
@@ -38,7 +32,7 @@ disqus:
 # URL
 url:                "https://egemenmede.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/egemenmede.github.io" # the subpath of your site, e.g. /blog
+baseurl:            "/egemenmede.github.io/" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -46,7 +40,7 @@ timezone:           Turkey
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           5
+paginate:           10
 paginate_path:      /page:num/
 
 # Markdown
@@ -56,12 +50,20 @@ kramdown:
 
 # Navigation
 nav:
+  - name:           "Köşe Yazıları"
+    url:            "/articles"
+  - name:           "Projeler"
+    url:            "/projects"
+  - name:           "Seminerler"
+    url:            "/seminars"
+  - name:           "Kitap"
+    url:            "/book"
   - name:           "Hakkında"
     url:            "/about"
-  - name:           "Arşiv"
-    url:            "/archive"
   - name:           "Etiketler"
     url:            "/tags"
+  - name:           "Arşiv"
+    url:            "/archive"
   - name:           "Github"
     url:            "https://github.com/egemenmede/egemenmede.github.io"
 
