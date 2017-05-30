@@ -5,6 +5,7 @@ permalink: /articles/
 
 ## ComputerWorld
 
+- [Ekiplerinizin yaratıcılığını öldürmeyin!](http://www.computerworld.com.tr/blog/ekiplerinizin-yaraticiligini-oldurmeyin/) - Mayıs/2017
 - [Teknolojinin “Açık Kaynak” hali](http://www.computerworld.com.tr/blog/teknolojinin-acik-kaynak-hali/) - Nisan/2017
 - [Google’dan yeni bir “uzun burun” hikayesi](http://www.computerworld.com.tr/blog/googledan-yeni-bir-uzun-burun-hikayesi/) - Mart/2017
 
