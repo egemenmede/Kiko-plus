@@ -2,7 +2,7 @@
 title: Eğitimler
 permalink: /tutorials/
 ---
-## React Native:
+## React Native Eğitimleri
 
 1. [Facebook ve React](https://egemenmede.github.io/2015-12-06/facebook-ve-react/)
 1. [React Native Mac Kurulumu](https://egemenmede.github.io/2017-01-08/react-native-mac-kurulumu/)
