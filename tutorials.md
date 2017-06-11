@@ -10,3 +10,4 @@ permalink: /tutorials/
 3. [React Native ile Stil Kullanımı](https://egemenmede.github.io/2017-01-08/react-native-ile-stil-kullanimi/)
 4. [React Native için Flexbox Kullanımı](https://egemenmede.github.io/2017-01-08/react-native-icin-flexbox-kullanimi/)
 5. [React Native Component - Button](https://egemenmede.github.io/2017-01-08/react-native-component-button/)
+6. [React Native Api - Alert](https://egemenmede.github.io/2017-01-08/react-native-api-alert/)
