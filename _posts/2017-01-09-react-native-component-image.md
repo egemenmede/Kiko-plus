@@ -19,6 +19,7 @@ Uzak sunucu üzerinden kullanılan resimler de şu şekilde gösterilir.
 
 ```javascript
 <Image style={styles.base} source={uri: "http://facebook.github.io/react/img/logo_og.png"} />
+//Not: source, Çift süslü parantez olmalı.
 ```
  
 **Image** componenti için önemli bazı özellikler şunlardır;
