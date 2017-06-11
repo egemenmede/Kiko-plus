@@ -12,19 +12,13 @@ Image ile hem lokal saklama alanındaki hem de uzak sunucudaki resimlerin göste
 Lokaldeki gösterimi şu şekildedir.
 
 ```javascript
-<Image
-style={styles.base}
-source={require('./img/logo_og.png')}
-/>
+<Image style={styles.base} source={require('./img/logo_og.png')} />
 ```
  
 Uzak sunucu üzerinden kullanılan resimler de şu şekilde gösterilir.
 
 ```javascript
-<Image
-	style={styles.base}
-	source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}}
-/>
+<Image style={styles.base} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
 ```
  
 **Image** componenti için önemli bazı özellikler şunlardır;
