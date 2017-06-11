@@ -25,4 +25,4 @@ permalink: /tutorials/
 **Api'ler**
 
 :   [React Native Api - Alert](https://egemenmede.github.io/2017-01-08/react-native-api-alert/)
-:   [React Native Api - ToastAndroid](https://egemenmede.github.io/2017-01-09-react-native-api-toastandroid/)
+:   [React Native Api - ToastAndroid](https://egemenmede.github.io/2017-01-09/react-native-api-toastandroid/)
