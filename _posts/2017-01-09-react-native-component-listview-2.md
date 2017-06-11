@@ -45,11 +45,11 @@ Bu servisin bize dönüşü de aşağıdaki gibi olacaktır. Biz bunun içerisin
 
 ![Ekran](/egemenmede.github.io/assets/images/ListView_2.png){: .center-image}
 
-Bu örneğimizde öğreneceğimiz yeni fonksiyonlardan biri de “componentDidMount“ olacak.
+Bu örneğimizde öğreneceğimiz yeni fonksiyonlardan biri de “**componentDidMount**“ olacak.
 
-Native Android ile geliştirme yapanlar hatırlayacaktır, nasıl bir "Activity Lifecycle" ı varsa vebu yaşam döngüsü içerisinde pek çok olay gerçekleşiyorsa, aynı durum React Native'e ait olan componentlerin lifecycle’larında da yaşanıyor. Temel olarak bir React componentinin geçtiği 3 aşama bulunur. Bunlar "Mounting" , "Updating" ve "Unmounting" tir.
+Native Android ile geliştirme yapanlar hatırlayacaktır, nasıl bir "**Activity Lifecycle**" ı varsa vebu yaşam döngüsü içerisinde pek çok olay gerçekleşiyorsa, aynı durum React Native'e ait olan componentlerin lifecycle’larında da yaşanıyor. Temel olarak bir React componentinin geçtiği 3 aşama bulunur. Bunlar "**Mounting**" , "**Updating**" ve "**Unmounting**" tir.
 
-componentDidMount’ta bir mounting işlemidir. Buradaki işlevi, ekranda gösterilecek verinin render işleminden önce hazır hale gelmesini sağlamaktır. Bu ve diğer component lifecycle’larını daha sonra detaylı olarak inceleyeceğiz.
+**componentDidMount**’ta bir mounting işlemidir. Buradaki işlevi, ekranda gösterilecek verinin render işleminden önce hazır hale gelmesini sağlamaktır. Bu ve diğer component lifecycle’larını daha sonra detaylı olarak inceleyeceğiz.
 
 Bu örneğimizde dikkatimizi çeken bir diğer unsur da web servisinden veri çektiğimiz asenkron network işlemi. Bunun da detaylarına ve kullanım farklılıklarına başka bir makalemizde göz atacağız. Şimdilik yalnızca bir servisten veri çekme işlemini gerçekleştirmemiz olarak göz atabilirsiniz.
 
