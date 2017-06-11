@@ -58,6 +58,8 @@ nav:
     url:            "/seminars"
   - name:           "Kitap"
     url:            "/book"
+  - name:           "Eğitimler"
+    url:            "/tutorials"
   - name:           "Hakkında"
     url:            "/about"
   - name:           "Etiketler"
