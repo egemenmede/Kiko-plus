@@ -49,7 +49,7 @@ Zorunlu olarak belirtilmiş özellikleri belirtmediğinizde de uygulamanız çal
 
 Ancak bunu yaptığınız da aşağıdaki gibi bir uyarı görüntülenir.
 
-![Ekran-2](/egemenmede.github.io/assets/images/buton2.png){: .center-image}
+![Ekran-2](/egemenmede.github.io/assets/images/button2.png){: .center-image}
 
 Uyarıya tıkladığınızda detaylı açıklamayı aşağıdaki gibi görüntüleyebilirsiniz.
 
