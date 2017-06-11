@@ -16,7 +16,7 @@ static show(message, duration)
 static showWithGravity(message, duration, gravity)
 ```
 
-**message:** Bu bölümde Toast içerisinde görüntülenecek metni belirtir. 
+**message:** Bu bölümde Toast içerisinde görüntülenecek metni belirtir.
 **duration:** ToastAndroid.SHORT ve ToastAndroid.LONG olmak üzere iki değer alır. Biri kısa diğeri de uzun gösterim şeklidir.
 **gravity:** Bu parametre showWithGravity metodu ile birlikte kullanılır. ToastAndroid.TOP, ToastAndroid.BOTTOM ve ToastAndroid.CENTER olmak üzere 3 değer alır.
 
