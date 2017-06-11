@@ -7,8 +7,6 @@ tags: [react, react native]
 comments: true
 share: true
 ---
-React Native Component - ListView-2
-
 ListView bileşeni ile yapmış olduğumuz ilk örneğimizde statik bir dataSource kaynağından verileri almış ve ekranda göstermiştik.
 
 Bu örneğimizde hem class’ın oluşturulma şeklini değiştireceğiz hem de gerçek bir veri kaynağından JSON verilerini çekerek ekranda göstereceğiz.

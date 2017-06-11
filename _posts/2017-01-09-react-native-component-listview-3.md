@@ -7,8 +7,6 @@ tags: [react, react native]
 comments: true
 share: true
 ---
-React Native Component - ListView-3
-
 **ListView-2** yazımızda gerçek bir veri kaynağından **JSON** verilerini çekerek ekranda göstermiştik.
  
 Bu yazıda önceki örneğimizi biraz daha gerçekçi bir hale getirip, yükleme öncesinde bir “**Loading..**” mesajı gösterip, veri servisten çekildikten sonra ekrana bastıracağız.
