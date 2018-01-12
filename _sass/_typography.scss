@@ -11,12 +11,10 @@ body {
   color: $text-color;
   background-color: $background-color;
   -webkit-font-smoothing: antialiased;
-  word-break: keep-all;
 
   @media (max-width: 38rem){
     font-size: $mobile-font-size;
     font-weight: 300;
-    word-break: keep-all;
   }
 }
 
@@ -281,9 +279,7 @@ pre {
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  // word-wrap: break-word;
+  overflow: auto;
   background-color: $code-background-color;
 }
 
