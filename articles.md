@@ -5,6 +5,7 @@ permalink: /articles/
 
 ## Medium
 
+- [Come to Beşiktaş!](https://medium.com/mobiletech/come-to-be%C5%9Fikta%C5%9F-6f04dd055f88) - Ocak/2018
 - [Yapay zeka son mu? başlangıç mı?](https://medium.com/mobiletech/yapay-zeka-son-mu-ba%C5%9Flang%C4%B1%C3%A7-m%C4%B1-789429f10a4d) - Ocak/2018
 - [İşinizin ne kadar sahibisiniz?](https://medium.com/@delipenguen/i%CC%87%C5%9Finizin-ne-kadar-sahibisiniz-bb5bf2d24a5b) - Ocak/2016
 - [Çırak olabilmek..](https://medium.com/@delipenguen/%C3%A7%C4%B1rak-olabilmek-70995bdcbf9e) - Eylül/2015
